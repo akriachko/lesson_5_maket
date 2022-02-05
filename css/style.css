@@ -1,0 +1,91 @@
+/* &display=swap */
+@import "null.css";
+/* ================================================================ */
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+/* ================================================================ */
+
+body {
+	font-family: 'Lato', sans-serif;
+}
+.container {
+	margin: 0 auto;
+	width: 810px;
+	height: 1594px;
+}
+
+.h1-txt {
+	width: 810px;
+	height: 120px;
+}
+
+h1 {
+	font-family: Lato;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 46px;
+	line-height: 130%;
+	color: #1E212C;
+}
+
+.background-img {
+	margin-top: 80px;
+}
+
+.txt-1 {
+	margin-top: 60px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;
+}
+
+.txt-2 {
+	margin-top: 24px;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+
+.txt-3 {
+	margin-top: 24px;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+
+.txt-4 {
+	margin: 48px 0px 0px 60px;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	line-height: 150%;
+	color: #1E212C;	
+}
+
+.txt-5 {
+	margin-top: 48px;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
+
+.txt-6 {
+	margin-top: 46px;
+	font-size: 16px;
+	color: #424551;
+}
+
+.li-txt {
+	margin-top: 16px;
+}
+
+.txt-7 {
+	margin-top: 24px;
+	font-size: 16px;
+	line-height: 160%;
+	color: #424551;
+}
